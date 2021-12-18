@@ -4,6 +4,10 @@ export default function About() {
   return (
     <div>
       <h1>About</h1>
+      <img
+          src={`./krystyn.jpg`}
+          alt="Krystyn"
+        />
       <p>
       Evolving web developer with a background in project management and Kaizen. 
       Currently earning a certificate through Northwestern University in a coding 
